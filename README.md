@@ -1,5 +1,7 @@
 # Lesson Plan: Introduction to Arrays and Inventory Management
 
+Read my lesson plan.pdf for the full information!
+
 ## Grade Level: 
 Middle School
 
