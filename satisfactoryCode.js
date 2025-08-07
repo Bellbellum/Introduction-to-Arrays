@@ -27,16 +27,15 @@ class LunchBox {
   }
 }
 
-// Student's simulation
 let myLunchbox = new LunchBox("Maria's");
 myLunchbox.addItem("sandwich");
 myLunchbox.addItem("apple");
 myLunchbox.addItem("cookie");
 myLunchbox.addItem("carrots");
 
-myLunchbox.listItem(); // Shows all four items
+myLunchbox.listItem(); 
 
-myLunchbox.removeItem("apple"); // Removes the apple
-myLunchbox.addItem("juice box"); // Adds a new item
+myLunchbox.removeItem("apple");
+myLunchbox.addItem("juice box");
 
-myLunchbox.listItem(); // Shows sandwich, cookie, carrots, and juice box
+myLunchbox.listItem();
